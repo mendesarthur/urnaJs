@@ -2,7 +2,7 @@
 
 ## Simulador de urna eletrônica usando javascript
 
-<img src= "./images/urnaJs.png" width= "500px">
+<img src= "./images/urna_print.png" width= "500px">
 
 # 🚀 Para iniciar o projeto 
 
