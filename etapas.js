@@ -1,6 +1,6 @@
 let etapas = [
     {
-        titulo: 'VEREADOR',
+        titulo: 'DEPUTADO ESTADUAL',
         numeros: 5,
         candidatos: [
             {
@@ -8,7 +8,7 @@ let etapas = [
                 nome: 'José',
                 partido: 'ABC',
                 fotos: [
-                    {url: '55123.jpg', legenda: 'Vereador'}
+                    {url: '55123.jpg', legenda: 'Deputado estadual'}
                 ]
             },
             {
@@ -16,7 +16,7 @@ let etapas = [
                 nome: 'Antonella',
                 partido: 'DEFG',
                 fotos: [
-                    {url: '12345.jpg', legenda: 'Vereador'}
+                    {url: '12345.jpg', legenda: 'Deputado estadual'}
                 ]
             },
             {
@@ -24,7 +24,7 @@ let etapas = [
                 nome: 'Rita',
                 partido: 'ABC',
                 fotos: [
-                    {url: '87654.jpg', legenda: 'Vereador'}
+                    {url: '87654.jpg', legenda: 'Deputado estadual'}
                 ]
             },
             {
@@ -32,13 +32,13 @@ let etapas = [
                 nome: 'Fábio',
                 partido: 'DEFG',
                 fotos: [
-                    {url: '92001.jpg', legenda: 'Vereador'}
+                    {url: '92001.jpg', legenda: 'Deputado estadual'}
                 ]
             }
         ]
     },
     {
-        titulo: 'PREFEITO',
+        titulo: 'GOVERNADOR',
         numeros: 2,
         candidatos: [
             {
@@ -47,8 +47,8 @@ let etapas = [
                 partido: 'ABC',
                 vice: 'Sebastião',
                 fotos: [
-                    {url: '68.jpg', legenda: 'Prefeito'},
-                    {url: '68_2.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url: '68.jpg', legenda: 'Governador'},
+                    {url: '68_2.jpg', legenda: 'Vice-Governador', small: true}
                 ] 
             },
             {
@@ -57,8 +57,8 @@ let etapas = [
                 partido: 'DEFG',
                 vice: 'Martin',
                 fotos: [
-                    {url: '42.jpg', legenda: 'Prefeito'},
-                    {url: '42_2.jpg', legenda: 'Vice-Prefeito', small: true}
+                    {url: '42.jpg', legenda: 'Governador'},
+                    {url: '42_2.jpg', legenda: 'Vice-Governador', small: true}
                 ] 
             }
         ]
